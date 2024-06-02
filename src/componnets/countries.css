@@ -1,0 +1,18 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.visited-country-container-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.visited-country-container{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.visited-country-img{
+    width: 100px;
+}

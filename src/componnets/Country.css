@@ -1,0 +1,16 @@
+.style{
+    border: 2px solid skyblue;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
+.button-color{
+    background-color: blue;
+    color: white;
+}
+.button-color:hover{
+    background-color: purple;
+}
+.visited-style{
+    background-color: skyblue;
+}
